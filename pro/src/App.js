@@ -1,12 +1,11 @@
 
-import './App.css';
+import './index.css';
 import Login from './components/Login/Login.jsx';
 function App() {
   return (
-    <>
-    <h1>This is first</h1>
+    <div>
     <Login />
-    </>
+    </div>
   );
 }
 
