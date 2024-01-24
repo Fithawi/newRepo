@@ -1,11 +1,11 @@
 
 import './App.css';
-import Laser from './components/laser.js';
+import Login from './components/Login/Login.jsx';
 function App() {
   return (
     <>
     <h1>This is first</h1>
-    <Laser />
+    <Login />
     </>
   );
 }
